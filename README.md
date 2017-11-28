@@ -1,6 +1,6 @@
 # SensorRod - A digitizer for internal textures
 
-##Overview
+## Overview
 
 tl;dr: This is a device for sensing the textures of Fleshlights for people without penises.
 
@@ -8,7 +8,7 @@ The idea come to me after a friend described the feeling of penis envy she'd had
 
 The breakdown of my thoughts will be a common theme here, since I'm basically typing them down interleaved with what I learnt whilst researching and implementing the prototype. Much of this happened during the SexTechHack 2017 event (http://goldsmiths.tech/sex).
 
-###The problem of actual sensing internal textures
+### The problem of actual sensing internal textures
 
 The first couple of things that came to mind were pressure or capacitive sensors: neither suitable due to lack of resultion. Capacitive sensors would also require conductive materials, which Fleshlights and other similar products are rarely made of. Pressure sensors would struggle with the softness of the textures too.
 
